@@ -18,4 +18,8 @@ To solve the above arising problems, I have tried to create some sort of algorit
 
 ### Basic/Elementary Idea in mind
 
-What I have in mind is that the model should work on steps like segmentation, noise removal, contrast stretching, 
+What I have in mind is that the model should work on steps like segmentation, noise removal, contrast stretching, facial feature extraction, liveness detection to identify the face.
+
+## Please Note
+
+This is only being made as a learning project and nothing more than that. I do not know if something similar to this has already been created.
